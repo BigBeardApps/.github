@@ -14,7 +14,7 @@ One-person studio run by [Raul Peña](https://bigbeardapps.com/about.html) out o
 |---|---|---|
 | 🍽️ **[Feastmark](https://bigbeardapps.com/feastmark/)** | Turns recipe videos from Instagram, TikTok, and YouTube into your personal cookbook — even when the recipe is only spoken aloud. | In App Review |
 | 📊 **[PayoffPilot](https://bigbeardapps.com/payoffpilot/)** | A private debt-payoff planner. Compare Snowball vs. Avalanche with your real numbers — pay once, never subscribe. | In App Review |
-| 🎣 **[ReelTalk](https://bigbeardapps.com/reeltalk/)** | 30 original fishing-pun stickers for iMessage. Big bass energy for your group chats. | Coming soon |
+| 🎣 **[ReelTalk](https://bigbeardapps.com/reeltalk/)** | 30 original fishing-pun stickers for iMessage. Big bass energy for your group chats. | In App Review |
 
 ## Building in the open
 
