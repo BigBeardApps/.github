@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://bigbeardapps.com/assets/bigbeard-logo.png" width="140" alt="Big Beard Apps logo">
+  <img src="logo.png" width="140" alt="Big Beard Apps logo">
 </p>
 
 <h1 align="center">Big Beard Apps</h1>
